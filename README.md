@@ -3,27 +3,8 @@
 
 <div align="left">
   <h1>🌲 Eco-Marketer </h1>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/ca00a35b-ef19-4849-b354-f1f8a82bf18a" width="250" alt="45">
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/5595e256-7f22-46fd-ae25-3fbfc144e3f9" width="250" alt="44">
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/fae45840-b215-46bd-b0ec-d1737c79e21d" width="250" alt="43">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/0b238e87-9634-4c5d-94ad-6d17ca11bc6a" width="250" alt="42">
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/ce576bfe-0d64-44aa-a12b-02cdb90d734c" width="250" alt="41">
-      </td>
-    </tr>
-  </table>
+  
+  <img src="https://github.com/user-attachments/assets/f8d491a2-7f33-463d-a4cf-bc0f3ba8aa99" width="100%" alt="Eco-Marketer EcoSc" />
 
   <p align="right"><a href="https://www.youtube.com/watch?v=lPWjqZf1_KQ"><strong>Youtube » </strong></a></p>
 

@@ -62,8 +62,40 @@
 
 ---
 
-## 스크린 샷
+## 💡 참고 및 트렌드
 
-<table> <tr> <td> <img src="https://github.com/user-attachments/assets/a768e68e-9a7b-4182-b804-36a9cfb08930" width="250" alt="Eco-Marketer 스크린샷 1" /> </td> </td> <tr> <td> <img src="https://github.com/user-attachments/assets/224b2a0b-91dd-4e52-8168-bcd16b584d15" width="250" alt="Eco-Marketer 스크린샷 2" /> </td> <td> <img src="https://github.com/user-attachments/assets/bd364bb7-7b95-4857-99bb-da0586318efe" width="250" alt="Eco-Marketer 스크린샷 3" /> </td> </tr> <tr> <td> <img src="https://github.com/user-attachments/assets/399b52ec-0668-4d89-9f2b-64afcdc97ff8" width="250" alt="Eco-Marketer 스크린샷 4" /> </td> </tr> <tr><td> <img src="https://github.com/user-attachments/assets/d89f4576-2379-4ea9-9181-94e4730319cd" width="250" alt="Eco-Marketer 스크린샷 6" /> </td> </tr> </table>
+최근 국내 대표 중고거래 플랫폼 당근마켓에서도 AI 기반 판매글 자동 생성 기능을 베타로 도입하였습니다.
+<br />
+Eco-Marketer는 이러한 최신 트렌드를 미리 반영해, 사용자 편의성과 거래 효율성을 극대화하는 서비스를 선제적으로 구현한 프로젝트입니다.
+
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/4f9a0698-14d1-4d81-b61d-ab20d3c69cac" />
+
+
+---
+
+## 스크린 샷
+<table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/a768e68e-9a7b-4182-b804-36a9cfb08930" width="250" alt="Eco-Marketer 스크린샷 1" />
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/224b2a0b-91dd-4e52-8168-bcd16b584d15" width="250" alt="Eco-Marketer 스크린샷 2" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/bd364bb7-7b95-4857-99bb-da0586318efe" width="250" alt="Eco-Marketer 스크린샷 3" />
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/399b52ec-0668-4d89-9f2b-64afcdc97ff8" width="250" alt="Eco-Marketer 스크린샷 4" /> 
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/d89f4576-2379-4ea9-9181-94e4730319cd" width="250" alt="Eco-Marketer 스크린샷 6" />
+      </td>
+    </tr>
+  </table>
 
 ---
